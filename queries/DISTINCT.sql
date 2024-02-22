@@ -1,0 +1,1 @@
+SELECT DISTINCT classofemployee FROM sallary;
